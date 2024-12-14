@@ -5,6 +5,15 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
+# Instalar dependencias
+yarn
+# Criar banco prisma
+yarn prisma migrate
+# Iniciar
+yarn dev
+
+
+# config defaults....
 npm run dev
 # or
 yarn dev
