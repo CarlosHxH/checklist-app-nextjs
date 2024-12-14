@@ -11,8 +11,10 @@ yarn
 yarn prisma migrate
 # Iniciar
 yarn dev
+```
 
 
+```bash
 # config defaults....
 npm run dev
 # or
